@@ -1,1 +1,1 @@
-# Pr3
+# Schelling Model
